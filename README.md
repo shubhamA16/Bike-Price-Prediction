@@ -12,4 +12,4 @@ Run Project
 
 pip install -r requirements.txt
 python main.py# Bike-Price-Prediction
-Machine Learning web application that predicts the price of used bikes using Flask and Scikit-learn.
+Machine Learning web application that predicts the price of used bikes using Flask and Scikit-learn .
